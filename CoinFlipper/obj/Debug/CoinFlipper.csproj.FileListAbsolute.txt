@@ -1,0 +1,11 @@
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe.config
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.pdb
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.pdb
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.exe.manifest
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\bin\Debug\CoinFlipper.application
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.exe.manifest
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.application
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.AssemblyReference.cache
+C:\Users\darka\source\repos\CoinFlipper\CoinFlipper\obj\Debug\CoinFlipper.csproj.CoreCompileInputs.cache
